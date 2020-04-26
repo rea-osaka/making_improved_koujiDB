@@ -36,5 +36,6 @@ vignettes/*.pdf
 rsconnect/
 
 rdata/*.rda
+improved_kouji_db.rda
 
 README.html
